@@ -68,15 +68,14 @@ body {
 }
 
 #photo_div {
-	width: 50.25em;
-	height: 23.5em;
+	width: 83%;
 	margin:auto;
 }
 
 .photo {
-	width: 8em;
+	width: 16%;
 	height: 8em;
-	margin: 0.15em;
+	margin: 0.3%;
 }
 
 #prompter {
