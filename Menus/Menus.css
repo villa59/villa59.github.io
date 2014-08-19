@@ -85,10 +85,9 @@ body {
 }
 
 .menu_table {
-	margin-left: 26%;
-	margin-bottom: 1em;
+	margin:1em auto;
 	border: 0.15em solid;
-	width: 30em;
+	width: 50%;
 	background-color: #C2BC51;
 
 }
