@@ -93,6 +93,7 @@ body {
 
 #home_images div img {
 	margin: auto;
+	width: 75%;
 	position: absolute;
 	top: 0;
 	right: 0;
