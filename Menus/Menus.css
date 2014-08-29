@@ -72,11 +72,13 @@ body {
 #specials_board_picture {
 	margin-left: 4%;
 	position: relative;
+	width:17%;
 }
 
 #menu_picture {
 	margin-right: 4%;
 	position: relative;
+	width:17%;
 
 }
 
